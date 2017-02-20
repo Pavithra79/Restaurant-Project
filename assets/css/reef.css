@@ -22,6 +22,10 @@ h1{
   color: white;
 } 
 
+.container{
+  width: 85%;
+}  
+
 #container{
   width: 85%;
   margin: 5% auto 1% auto;
