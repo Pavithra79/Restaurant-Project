@@ -1,0 +1,45 @@
+
+
+
+
+body{
+	background: url(Images/VoteNow-sm.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+	text-align: center;
+    padding-top: 5%;
+    font-weight: 700;  
+               
+               
+               
+}
+
+.container{
+	background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: grayscale(1) contrast(3) blur(1px);
+	width: 75%;
+	margin-top: 5%;
+	margin-bottom: 7%;
+}
+
+.container-content{
+	width: 75%;
+	padding-left: 10%;
+	padding-bottom: 7%;
+	padding-top: 5%;
+}
+
+.form-control{
+	background: lightgrey;
+}
+
+button{
+	width: 100%;
+	margin-top: 3%;
+}
+

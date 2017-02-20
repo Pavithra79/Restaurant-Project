@@ -1,0 +1,63 @@
+
+
+
+body{
+	background: url(Images/planaparty-sm.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+	text-align: center;
+    padding-top: 5%;
+    font-weight: 700;             
+}
+
+.container{
+	background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: grayscale(1) contrast(3) blur(1px);
+	width: 75%;
+	margin-top: 5%;
+	margin-bottom: 7%;
+}
+
+.container-content{
+	width: 75%;
+	padding-left: 10%;
+	padding-bottom: 7%;
+	padding-top: 5%;
+	font-size: 1.3em;
+}
+
+
+.quote{
+	padding-left: 7%;
+	margin-bottom: 2%;
+}
+
+.q{
+	padding-left: 2%;
+	font-size: 1.3em;
+}
+
+span{
+	font-size: 2em;
+	font-style: italic;
+}
+
+.note{
+	font-size: 1em;
+}
+
+p{
+	padding-top: 2%;
+	font-size: 1.2em;
+}
+
+img{
+	width:60%;
+	padding-top: 2%;
+}
+
